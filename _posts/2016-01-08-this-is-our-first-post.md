@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T17:25:47.075Z'
-dateModified: '2016-01-08T17:25:22.132Z'
+datePublished: '2016-01-08T17:30:34.982Z'
+dateModified: '2016-01-08T17:30:28.338Z'
 title: This is our first post
 author: []
+sourcePath: _posts/2016-01-08-this-is-our-first-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-this-is-our-first-post.md
-published: true
 url: this-is-our-first-post/index.html
 _type: Article
 
