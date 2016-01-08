@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Factory Developers]]></title>
         <description><![CDATA[Factory Developers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/factory-developers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 17:25:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 17:30:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/factory-developers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is our first post]]></title>
-            <description><![CDATA[<h1>This is our first post</h1>]]></description>
-            <link>undefinedthis-is-our-first-post/index.html</link>
+            <description><![CDATA[<article><h1>This is our first post</h1><p>Thanks for having us.</p></article>]]></description>
+            <link>https://thegrid.ai/factory-developers/this-is-our-first-post/index.html</link>
             <guid isPermaLink="false">a185bbf3-04b1-468c-bb86-5a93627688a4</guid>
-            <pubDate>Fri, 08 Jan 2016 17:25:47 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 17:30:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
